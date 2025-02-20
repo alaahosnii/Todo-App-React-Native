@@ -8,8 +8,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://res.cloudinary.com/dnjyjohze/image/upload/v1740075237/Simulator_Screenshot_-_iPhone_16_Pro_-_2025-02-20_at_19.59.54_rfdqzd.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dnjyjohze/image/upload/v1740075237/Simulator_Screenshot_-_iPhone_16_Pro_-_2025-02-20_at_19.59.54_rfdqzd.png" alt="project-screenshot" width="400" height="600/">
 
-<img src="https://res.cloudinary.com/dnjyjohze/image/upload/v1740075237/Simulator_Screenshot_-_iPhone_16_Pro_-_2025-02-20_at_20.07.24_s7ly53.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dnjyjohze/image/upload/v1740075237/Simulator_Screenshot_-_iPhone_16_Pro_-_2025-02-20_at_20.07.24_s7ly53.png" alt="project-screenshot" width="400" height="600/">
 
-<img src="https://res.cloudinary.com/dnjyjohze/video/upload/v1740075247/Simulator_Screen_Recording_-_iPhone_16_Pro_-_2025-02-20_at_20.07.11_vemsdo.mov" alt="project-screenshot" width="400" height="400/">
+<video src="https://res.cloudinary.com/dnjyjohze/video/upload/v1740075247/Simulator_Screen_Recording_-_iPhone_16_Pro_-_2025-02-20_at_20.07.11_vemsdo.mov" alt="project-screenshot" width="400" height="400/">
