@@ -5,6 +5,7 @@
 <p id="description">An todo app application built with react native</p>
 
 <h2>🚀 Demo</h2>
+https://res.cloudinary.com/dnjyjohze/video/upload/v1740075247/Simulator_Screen_Recording_-_iPhone_16_Pro_-_2025-02-20_at_20.07.11_vemsdo.mov
 
 <h2>Project Screenshots:</h2>
 
