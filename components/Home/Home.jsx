@@ -1,16 +1,18 @@
-import { useEffect, useState } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import { FlatList, SafeAreaView, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import Divider from '../Divider/Divider';
 import FilterButton from '../FilterButton/FilterButton';
 import Task from '../Task/Task'; import React from 'react'
 import styles from './HomeStyle';
 import uuid from 'react-native-uuid';
+import TodoContext from '../../contexts/TodosContext';
 
 const Home = () => {
     const [taskName, setTaskName] = useState("");
     const [taskDescription, setTaskDescription] = useState("");
-    const [tasks, setTasks] = useState([]);
-    const [filteredTasks, setFilteredTasks] = useState([]);
+    // const [tasks, setTasks] = useState([]);
+    // const [filteredTasks, setFilteredTasks] = useState([]);
+    const { tasks, setTasks, filteredTasks, setFilteredTasks } = useContext(TodoContext);
     const filtersList = [
         {
             id: 1,
