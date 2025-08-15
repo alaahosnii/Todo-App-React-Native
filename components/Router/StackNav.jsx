@@ -1,6 +1,6 @@
 import React from 'react'
-import Home from '../Home/Home';
-import TaskDetails from '../TaskDetails/TaskDetails';
+import Home from '../../screens/Home/Home';
+import TaskDetails from '../../screens/TaskDetails/TaskDetails';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 const { Navigator, Screen } = createNativeStackNavigator();

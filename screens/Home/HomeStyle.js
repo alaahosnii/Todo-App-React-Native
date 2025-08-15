@@ -16,7 +16,8 @@ const styles = StyleSheet.create({
         paddingRight: 20,
         width: "100%",
         justifyContent: "center",
-        alignItems: "center"
+        alignItems: "center",
+        flex: 1,
     },
     text: {
         color: '#000',
@@ -32,6 +33,13 @@ const styles = StyleSheet.create({
         borderRadius: 7,
         color: "black",
         padding: 10,
+    },
+    errorText: {
+        color: 'red',
+        fontSize: 14,
+        marginTop: 5,
+        alignSelf: 'flex-start',
+        marginLeft: 5,
     }
 });
 
